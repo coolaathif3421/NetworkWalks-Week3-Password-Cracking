@@ -1,4 +1,4 @@
-# 🛡️ Week 3 Project: Security Assessments & Password Cracking Labs
+#  Week 3 Project: Security Assessments & Password Cracking Labs
 
 Welcome to my repository for **Week 3** of the **Networkwalks Academy** Cybersecurity training program. This repository documents my hands-on security assessments, hash extraction workflows, password-cracking methodologies, and environment automation using Kali Linux, John the Ripper, and the HexStrike AI MCP server.
 
@@ -65,12 +65,18 @@ All target flags for the Week 3 modules were successfully captured, decrypted, a
 
 ## 📸 Proof of Completion
 
-> *Note: Upload your 4 completion certificate screenshots into an `images/` folder in your repository to display them cleanly here.*
-
 * `Screenshot 1` — General Security Flag Captured (`nw{cybersecurity_flag_captured_2608}`)
+* <img width="525" height="738" alt="Screenshot 2026-11-16 192208" src="https://github.com/user-attachments/assets/89d67172-1176-4d76-ac2f-6af11f6e3083" />
+
 * `Screenshot 2` — Network Security Flag Captured (`nw{networkwalks_flag_260821_1}`)
+* <img width="625" height="806" alt="Screenshot 2026-11-16 192224" src="https://github.com/user-attachments/assets/93cc51c2-851f-474f-8739-353ead7caeb1" />
+
 * `Screenshot 3` — John the Ripper PDF Flag Captured (`nw{networkwalks_flag1_jtr_270521_1}`)
+* <img width="632" height="845" alt="Screenshot 2026-11-16 192217" src="https://github.com/user-attachments/assets/3585c243-0756-4dd6-9a66-e0a561f38a7b" />
+
 * `Screenshot 4` — Persistence & Wordlist Flag Captured (`nw{networkwalks_persistence_jtr_270521}`)
+* <img width="650" height="842" alt="Screenshot 2026-11-16 192201" src="https://github.com/user-attachments/assets/07a93e21-14c9-47b6-9c5b-3fcf81bafe3f" />
+
 
 ---
 
